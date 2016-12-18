@@ -1,15 +1,17 @@
 {
   "name": "gsg-common-style",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get-Set-Go Twitter Bootstrap common styles",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/get-set-go/gsg-common-style.git"
   },
   "keywords": [
+    "Get-Set-Go",
     "React",
     "Components",
-    "Bootstrap"
+    "Bootstrap",
+    "Common-Style"
   ],
   "author": "Ashwin Hegde",
   "license": "MIT",
