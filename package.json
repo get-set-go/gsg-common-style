@@ -7,9 +7,11 @@
     "url": "git+https://github.com/get-set-go/gsg-common-style.git"
   },
   "keywords": [
+    "Get-Set-Go",
     "React",
     "Components",
-    "Bootstrap"
+    "Bootstrap",
+    "Common-Style"
   ],
   "author": "Ashwin Hegde",
   "license": "MIT",
