@@ -1,6 +1,6 @@
 {
   "name": "gsg-common-style",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Get-Set-Go Twitter Bootstrap common styles",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "Bootstrap",
     "Common-Style"
   ],
-  "author": "Ashwin Hegde",
+  "author": "Ashwin Hegde <ashwin.hegde3@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/get-set-go/gsg-common-style/issues"
